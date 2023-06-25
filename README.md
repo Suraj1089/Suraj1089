@@ -10,6 +10,9 @@
     <a href="https://twitter.com/SurajPi79793386">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank">
     </a>
+        <a href="https://surajpisal.netlify.com">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio Badge" target="_blank">
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Suraj1089&style=flat-square&color=blue" alt="">
 </div>
