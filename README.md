@@ -8,8 +8,4 @@
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj1089&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3DDCF7&line=3DDCF7&point=FFFFFF" width="100%"/>
-</div>
+**"Half vibes, half engineering — all code. Currently engineering at @Ridecell and vibing on personal projects."**
