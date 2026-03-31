@@ -3,11 +3,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj1089&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDCF7&icon_color=3DDCF7&text_color=FFFFFF" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1089&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDCF7&text_color=FFFFFF" alt="Top Languages" height="180px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj1089&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DDCF7&ring=3DDCF7&fire=FF6B6B&currStreakLabel=3DDCF7" alt="GitHub Streak" width="600px"/>
 </div>
 
